@@ -1,0 +1,15 @@
+{
+  "name": "TrayIOTask",
+  "version": "1.0.0",
+  "description": "sample test project automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "CreateAndDeleteWFTest"
+  },
+  "author": "Rajeenthini",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-drivers": "^2.1.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
